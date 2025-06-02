@@ -1192,6 +1192,9 @@
 - address: 0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4
   name: Tektoniks
   symbol: TEKTON
+- address: 0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb
+  name: TeleBTC
+  symbol: TELEBTC
 - address: 0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14
   name: Telegrem
   symbol: TELEGREM

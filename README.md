@@ -675,6 +675,7 @@ Name           | Address
 [TapOk](https://tonviewer.com/0:ad7e1ca61254be4aa97d52e23766f3a619b2b54fca6c150ca1d81746022ae6a8) | EQCtfhymElS-Sql9UuI3ZvOmGbK1T8psFQyh2BdGAirmqJ21
 [Taurus](https://tonviewer.com/0:47fa54e01a87bac7ec01a1919b39205d5637c89af2c40366ee792fc9477181b2) | EQBH-lTgGoe6x-wBoZGbOSBdVjfImvLEA2bueS_JR3GBsqFb
 [Tektoniks](https://tonviewer.com/0:a1d37d53a6846d76bc71af4289521f209c49096d5de2370f502be75a1f4754f4) | EQCh031TpoRtdrxxr0KJUh8gnEkJbV3iNw9QK-daH0dU9HJV
+[TeleBTC](https://tonviewer.com/0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb) | EQBxXekXYqxhOohkMH5qqpYmd39O2YYEklvgl2GIJsG62-yw
 [TeleSwap](https://tonviewer.com/0:0660ad3c0da25a429999112cf7cbd82a8bbae6a68062c8a42bbbe7e2acec2a3f) | EQAGYK08DaJaQpmZESz3y9gqi7rmpoBiyKQru-firOwqPzR4
 [Telegram Monk](https://tonviewer.com/0:6292ec4e9cc914e173525464026e0e3a964e5df2fba1cc342d70338939c8da22) | EQBikuxOnMkU4XNSVGQCbg46lk5d8vuhzDQtcDOJOcjaIvkV
 [Telegram USD](https://tonviewer.com/0:89ec04b13a423a5ace4187c27be1765b457f3ceb58c5813653e360d7bfbd7e50) | EQCJ7ASxOkI6Ws5Bh8J74XZbRX8861jFgTZT42DXv71-UISf

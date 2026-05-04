@@ -227,6 +227,7 @@ Name           | Address
 [DexCoyote Legends](https://tonviewer.com/0:2b4dc2f97354e50a878bc1321180738c99e6f13319e14989f3eb9b6d2d15811c) | EQArTcL5c1TlCoeLwTIRgHOMmebxMxnhSYnz65ttLRWBHL17
 [Diamond Bull Technology](https://tonviewer.com/0:5c2c78d427d67c2ed31135ffaa76a454565da69e8ef7f6847c2043c379f451e1) | EQBcLHjUJ9Z8LtMRNf-qdqRUVl2mno739oR8IEPDefRR4asj
 [Dimethyltryptamine](https://tonviewer.com/0:ea665ac046fe233c9a70cdb60f3623ad0ff0a8b96c5e0066e9edac00ce87b340) | EQDqZlrARv4jPJpwzbYPNiOtD_CouWxeAGbp7awAzoezQImY
+[Dmitry'Friends](https://tonviewer.com/0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1) | EQAp8pimeVjBHEQdJTD95sh-XRUDmmLIXui83oR5qMvD8Uy0
 [Dog Wif Shapka](https://tonviewer.com/0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7) | EQBg57HDLFd920lqfPTXvGMENLD2oSmtraT3RDefici8x17g
 [Dog or Flower](https://tonviewer.com/0:892c5a48d10475400fc2610efb666d7f9fce510cce322d2e3abe86464566eef6) | EQCJLFpI0QR1QA_CYQ77Zm1_n85RDM4yLS46voZGRWbu9sbX
 [Dogecoin TON](https://tonviewer.com/0:698675afec4910be322418f8cc35a718b57a36744a852326cf4dff08c720468c) | EQBphnWv7EkQvjIkGPjMNacYtXo2dEqFIybPTf8IxyBGjNSz

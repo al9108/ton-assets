@@ -2810,6 +2810,11 @@
   "symbol": "JOG"
  },
  {
+  "address": "0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826",
+  "name": "JOOBI",
+  "symbol": "JOOBI"
+ },
+ {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
   "name": "JVault Token",
   "symbol": "JVT"

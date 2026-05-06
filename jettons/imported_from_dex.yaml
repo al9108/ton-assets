@@ -901,6 +901,9 @@
 - address: 0:cf74d1182a99f6e96f9f80d56dea7c8c82ddc515e110990c2d700146c6786cd6
   name: TonPepe
   symbol: PEPE
+- address: 0:0e3bad35992c48cab6b1dfb1e14afee6186daef3552b407edd8899efd4b4102d
+  name: Pepe
+  symbol: PEPE
 - address: 0:897713bd65a57aa2b1dde28b172315a257ab660c0b996aa4a238b29caf6bb97e
   name: PEPE.MP3
   symbol: PEPE.MP3

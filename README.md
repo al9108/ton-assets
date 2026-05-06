@@ -112,6 +112,7 @@ Name           | Address
 [Art Coin](https://tonviewer.com/0:81771a4409f10f1f6c14c62d5ae9088e9127fee6a0e3516a8b094b8ab43f862c) | EQCBdxpECfEPH2wUxi1a6QiOkSf-5qDjUWqLCUuKtD-GLINT
 [ArtsivTON](https://tonviewer.com/0:12d060a2c5c0b49cbe994817e06a22b3988d02ad6e9536a3666b0520be2ce0c7) | EQAS0GCixcC0nL6ZSBfgaiKzmI0CrW6VNqNmawUgvizgx4CT
 [Azure](https://tonviewer.com/0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2) | EQCj2tbgoppYqw7t_CLcj3nZnRhODIQDlcHvJpD7jl0jokNT
+[BABEL of the INTERNET](https://tonviewer.com/0:0e1c17318fabf8e38fbd3907e00f46e5811489777629160acacccee8deb80a41) | EQAOHBcxj6v444-9OQfgD0blgRSJd3YpFgrKzM7o3rgKQXjW
 [BANANA](https://tonviewer.com/0:e0c97b5505a51362b348604c954ce21409622d38f963e5e562247ed446b148f0) | EQDgyXtVBaUTYrNIYEyVTOIUCWItOPlj5eViJH7URrFI8DDR
 [BARASH](https://tonviewer.com/0:f7f4b367ca0eae110bf98ea905efa178e55638b2ccc3aaacf637c29b2f5410dd) | EQD39LNnyg6uEQv5jqkF76F45VY4sszDqqz2N8KbL1QQ3XPr
 [BEETON](https://tonviewer.com/0:91535482df135ffebdf7abc359ccbba0866bdd136d494582198f8a1129475129) | EQCRU1SC3xNf_r33q8NZzLughmvdE21JRYIZj4oRKUdRKRDb

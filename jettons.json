@@ -1955,6 +1955,11 @@
   "symbol": "BBNOT"
  },
  {
+  "address": "0:f9bb6809fddcaa1f422f1016ccc6a47a0cb4a44e81ccfba65db46a1cb22a896e",
+  "name": "black cherry",
+  "symbol": "BCHERRY"
+ },
+ {
   "address": "0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef",
   "name": "Boys Club",
   "symbol": "BCLUB"
@@ -4333,6 +4338,11 @@
   "address": "0:8303360ca7c202b97389c200022e1c0a47dab33e1ad8bd5b3c9af301f762860c",
   "name": "VTONTAKTE",
   "symbol": "WALL"
+ },
+ {
+  "address": "0:0e2856c65af25304c4961dc25481a1fb405eabacede2b549521916d0eba3114c",
+  "name": "George WashingTON",
+  "symbol": "WASHINGTON"
  },
  {
   "address": "0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3",

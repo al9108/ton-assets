@@ -710,7 +710,6 @@ Name           | Address
 [TONALD TRUMP](https://tonviewer.com/0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9) | EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI
 [TONFOMO](https://tonviewer.com/0:d1874559a045971eda548bc34a6a036521f258c6cb1ae727a57fb51630bdf2dd) | EQDRh0VZoEWXHtpUi8NKagNlIfJYxssa5yelf7UWML3y3RC2
 [TONKINGS Social Token](https://tonviewer.com/0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b) | EQDuvAP238sWqcCucf7tUS7M-4c-WwIXb6tKosdLXlQfmzcr
-[TONMAXXING](https://tonviewer.com/0:4d4ea5b2894a015c9113ab1fe28912b725141111cdc701f0d128568c9d427ca7) | EQBNTqWyiUoBXJETqx_iiRK3JRQREc3HAfDRKFaMnUJ8p8Re
 [TONNY](https://tonviewer.com/0:fbb087cfd8f47cbfb463671464f1f3f29ac8c4de15226030da003dfcc7a2c2b4) | EQD7sIfP2PR8v7RjZxRk8fPymsjE3hUiYDDaAD38x6LCtG2f
 [TONSEASON](https://tonviewer.com/0:b90d7df13ff8d91130c383725afc7d9780e1ce18fd6d3f2f7cbfa86172251ea6) | EQC5DX3xP_jZETDDg3Ja_H2XgOHOGP1tPy98v6hhciUepv76
 [TONSKI](https://tonviewer.com/0:e83c2004242e0d3c190635af4dfbccdf3ac403a410a321ee9b6f394f22822a5d) | EQDoPCAEJC4NPBkGNa9N-8zfOsQDpBCjIe6bbzlPIoIqXbZm

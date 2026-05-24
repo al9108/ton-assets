@@ -863,6 +863,7 @@ Name           | Address
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eTON NFT](https://tonviewer.com/0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184) | EQD4op8CPvKNpXVxj0nzEjsYWFfUkWfTwu1LtJjER67hhNbT
+[giga horse](https://tonviewer.com/0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53) | EQD11Q6RPmeCAG63Zp561cBwrpgfazHy3IweRqF-dvINU8Ac
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
 [jBTC](https://tonviewer.com/0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8) | EQCbkRdpnrWZfm07dP5n_wjGx6llNkHNIdmZ-gpIQcDP-J-5
 [jDAI](https://tonviewer.com/0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6) | EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B

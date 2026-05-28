@@ -652,6 +652,7 @@ Name           | Address
 [Saphir](https://tonviewer.com/0:04972ad5df6536d17c2e07723522e92abe91552f04f4977c292c2ff5f1a500a9) | EQAElyrV32U20XwuB3I1IukqvpFVLwT0l3wpLC_18aUAqTc2
 [Save Ass Coin](https://tonviewer.com/0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd) | EQAQB8Ut4tnlOl54this4vZqkWTVISybPnx_XID9337WzVra
 [Scaleton](https://tonviewer.com/0:65aac9b5e380eae928db3c8e238d9bc0d61a9320fdc2bc7a2f6c87d6fedf9208) | EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE
+[Scared Cats](https://tonviewer.com/0:d5d10f1eb8f3ddb311df68e4009ad743ae1de3e68fe874c60824ce27ba250eea) | EQDV0Q8euPPdsxHfaOQAmtdDrh3j5o_odMYIJM4nuiUO6t88
 [Scuffy](https://tonviewer.com/0:4a0ff8cac3d697f98305e3c2232065d2b6e72b64e1546cbbf13281c266bb3b9f) | EQBKD_jKw9aX-YMF48IjIGXStucrZOFUbLvxMoHCZrs7n7EJ
 [Seahava token](https://tonviewer.com/0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb) | EQAuXaEvNnUXI3hppeQ1xl6xUWtFGPKFLoQzY3qA5Ulr6_bD
 [Secure Sockets Layer](https://tonviewer.com/0:f753cc9cda6a137bcc826d4958c64321fd208258b92ec506a6da569be220dfa5) | EQD3U8yc2moTe8yCbUlYxkMh_SCCWLkuxQam2lab4iDfpXYU
